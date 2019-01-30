@@ -5,3 +5,8 @@
 2) git clone ...
 
 3) git add .
+4) git commit -m  "upload #3"
+5) git config --global user.name "..."
+   git config --global user.email "..."
+6) git push
+7) --------
